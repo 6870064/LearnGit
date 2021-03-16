@@ -1,1 +1,2 @@
 Hello git
+Git helps to work
