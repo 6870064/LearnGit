@@ -3,3 +3,4 @@ Git helps to work
 Git course is going on
 The fourth line
 The fifth row int the file
+Learning Git - sixth row
