@@ -6,3 +6,4 @@ The fourth line
 The fifth row int the file
 Learning Git - sixth row
 new line
+after stash
