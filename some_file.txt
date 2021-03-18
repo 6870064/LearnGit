@@ -8,3 +8,4 @@ Learning Git - sixth row
 new line
 after stash 
 some words for my_first_branch merge
+the line for conflict solving
