@@ -7,3 +7,5 @@ The fifth row int the file
 Learning Git - sixth row
 new line
 after stash
+
+Some text for my_first_branch
